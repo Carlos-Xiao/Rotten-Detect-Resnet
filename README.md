@@ -1,5 +1,13 @@
-# rotten-detect-resnet
-A rotten fruit detection algorithm based on resnet
+# STATS 415 Project - Rotten Food Detection based on ResNet50
+
+A rotten fruit detection algorithm based on ResNet50, term project at UM
+
+## Member
+- Zicong Xiao
+- Yulin Gao
+- Fengyuan Liu
+- Xiaoyang Sheng
+
 ## Installation
 ```shell
 # First make sure conda is installed on your mac
